@@ -5,7 +5,7 @@
 2. cannot begin with a number
 3. cant contain spaces
 4. abc123$_ only
-5. camel casing
+5. camel case
 
 ## Strings
 1. can be joined using +
