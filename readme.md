@@ -10,4 +10,4 @@
 ## Strings
 1. can be joined using +
 2. **string.length #returns lenght of the string**
-3. **string.slice(x,y) #slices out variable from position x to y. 
+3. **string.slice(x,y) #slices out variable from position x to (but not including) y. Index starts at 0**
